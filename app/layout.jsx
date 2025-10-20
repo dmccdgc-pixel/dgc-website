@@ -1,7 +1,6 @@
 export const metadata = {
   title: "Dubai Gold Coin (DGC)",
-  description:
-    "A gold-backed digital asset built on trust, luxury, and innovation.",
+  description: "Official website for the Dubai Gold Coin (DGC) project.",
 };
 
 export default function RootLayout({ children }) {
